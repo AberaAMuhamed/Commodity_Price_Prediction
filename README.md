@@ -1,7 +1,8 @@
 # Kalman_Filtering_Cofffee_Price_Prediction.
 
 
-What is Kalman Filter?¶
+## What is Kalman Filter?
+
 The Kalman filter is an algorithm that uses noisy observations of a system over time to estimate the parameters of the system and predict future observations. Note that some of systems are unobservable. At each time step, it makes a prediction, takes in a measurement, and updates itself based on how the prediction and measurement compare.
 
 The algorithm is as follows:
